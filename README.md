@@ -1,4 +1,4 @@
-# # Loan Approval Deep Neural Network with Deep SHAP Explanations
+## Loan Approval Deep Neural Network with Deep SHAP Explanations
 
 **Author: Lisa van der Linden**
 
