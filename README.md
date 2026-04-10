@@ -4,7 +4,7 @@
 
 **Bachelor of Science**  - Applied Artificial Intelligence
 
-**Bachelor ThesisL** The Effect of Explainable Artificial Intelligence (XAI) on User Trust in Deep Neural Network-Based Loan Approval Systems
+**Bachelor Thesis** The Effect of Explainable Artificial Intelligence (XAI) on User Trust in Deep Neural Network-Based Loan Approval Systems
 
 **International University of Applied Sciences**
 
